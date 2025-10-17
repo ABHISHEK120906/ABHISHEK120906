@@ -1,5 +1,4 @@
-# 👋 Hi, I'm @ABHISHEK120906  
-
+# 👋 Hi, I'm Abhishek Mutthalkar
 👀 I'm interested in exploring new technologies, solving logical problems, and developing smart digital solutions through clean code.  
 
 🌱 I'm currently learning Full Stack Development .
