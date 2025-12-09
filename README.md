@@ -7,7 +7,7 @@
 
 📫 How to reach me:  
 🎓 GH Raisoni Skilltech University, Nagpur (Wadi Campus)  
-📧 Email — abhishekmutthalkar@gmailcom  
+📧 Email — abhishekmutthalkar10@gmailcom  
  LinkedIn - https://www.linkedin.com/in/abhishek-mutthalkar-93726b377?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ⚙ Tech Stack:  
